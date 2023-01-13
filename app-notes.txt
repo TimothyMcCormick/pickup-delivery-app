@@ -1,0 +1,12 @@
+This app is designed to assist in tracking deliveries and pickups. 
+
+The idea was inspired by the need for a tracking system at the company I currently work for(Campbell Tractor). Though it will be created specifically for that purpose, it could be used for more applications in the future.
+
+Features:
+
+-ability to add customer details through form input(name, address, phone, mowerModels[array], mowerPicture, openJobs)
+-utilize gps and maps to guide user to destinations
+-sort destinations by distance
+-button to text customers to notify when leaving(if customer is open to text, otherwise call)
+-when using app, enter job number to start
+-set job numbers to track, select pickup or delivery
